@@ -4,13 +4,13 @@
 	//----------------------------------------------------------------------------------//
 	
 	/*  Set the URL to your Sendy installation (without the trailing slash) */
-	define('APP_PATH', 'http://your_sendy_installation_url');
+	define('APP_PATH', 'http://marketing.admoni.ng');
 	
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
-	$dbHost = ''; //MySQL Hostname
-	$dbUser = ''; //MySQL Username
-	$dbPass = ''; //MySQL Password
-	$dbName = ''; //MySQL Database Name
+	$dbHost = '127.0.0.1'; //MySQL Hostname
+	$dbUser = 'root'; //MySQL Username
+	$dbPass = 'P@ssword1'; //MySQL Password
+	$dbName = 'sendy'; //MySQL Database Name
 	
 	
 	//----------------------------------------------------------------------------------//	
